@@ -1,0 +1,23 @@
+body {
+    font-family: 'Oswald', sans-serif !important;
+  }
+
+.head-title {
+    font-family: 'Borel', cursive;
+}
+
+.body-title {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+.movie-title {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.home-title {
+    font-family: 'Lobster', cursive;
+}
+
+.home-quote {
+    font-family: 'Rajdhani', sans-serif;
+}
